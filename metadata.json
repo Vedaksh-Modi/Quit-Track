@@ -1,0 +1,6 @@
+{
+  "name": "QuitTrack",
+  "description": "Supportive, data-driven smoking reduction and cessation companion with craving coach, AI guidance, financial savings tracking, and health milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
